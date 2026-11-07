@@ -1,0 +1,6 @@
+app/src/main/AndroidManifest.xml
+app/src/main/java/com/tuapp/calculadorauber/MainActivity.kt
+app/src/main/java/com/tuapp/calculadorauber/UberReaderService.kt
+app/src/main/res/layout/flotante_barra.xml
+app/src/main/res/xml/accessibility_config.xml
+build.gradle
